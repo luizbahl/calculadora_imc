@@ -1,5 +1,5 @@
 
-import 'package:caluladora_imc/caluladora_imc.dart' as app;
+import 'package:caluladora_imc/calculadora_imc.dart' as app;
 import 'package:caluladora_imc/pessoa.dart';
 import 'package:test/test.dart';
 
